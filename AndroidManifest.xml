@@ -7,7 +7,7 @@
     <uses-sdk android:minSdkVersion="3" android:targetSdkVersion="23"/>
     <!-- Set your application name here -->
     <application android:label="They Hunger"
-		 android:debuggable="true"
+		 android:debuggable="false"
 		 android:icon="@drawable/logo_xash_th">
     <!-- Set your launcher title here -->
         <activity android:name="in.celest.xash3d.LauncherActivity"
